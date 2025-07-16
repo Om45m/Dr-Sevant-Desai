@@ -10,7 +10,7 @@ The website is designed using **HTML**, **CSS**, and **Bootstrap 5**, and featur
 ---
 
 ## 🔗 Live Demo
-[🌐 View Website](https://your-live-link.netlify.app) *(Replace this with actual link)*
+[🌐 View Website]([https://your-live-link.netlify.app](https://om45m.github.io/Dr-Sevant-Desai/)) 
 
 ---
 
@@ -43,13 +43,11 @@ The website is designed using **HTML**, **CSS**, and **Bootstrap 5**, and featur
 
 ---
 
-## 📷 Screenshots
-_Add screenshots here once you host it or during deployment._
 
 ---
 
 ## 🙌 Credits
-Website designed and developed by [Your Name]
+Website designed and developed by [Om Gabani]
 
 ---
 
